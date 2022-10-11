@@ -1,0 +1,141 @@
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.AssemblyReference.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.AssemblyInfoInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.AssemblyInfo.cs
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\01.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\01.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\01.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\01.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\02.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\02.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\02.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\02.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\03.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\03.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\03.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\03.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\07.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\07.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\07.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\07.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\Menu.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\Menu.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\Menu.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\Menu.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\ref\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\Menu.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\01.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\02.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\03.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\07.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\01.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\02.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\03.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\bin\Debug\net5.0\07.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.CopyComplete
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\ref\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD\Atividades\Menu\obj\Debug\net5.0\Menu.genruntimeconfig.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\01.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\01.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\01.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\01.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\02.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\02.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\02.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\02.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\03.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\03.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\03.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\03.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\07.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\07.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\07.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\07.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Menu.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Menu.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Menu.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Menu.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\ref\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Menu.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\01.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\02.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\03.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\07.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\01.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\02.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\03.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\07.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.AssemblyReference.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.AssemblyInfoInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.AssemblyInfo.cs
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.CopyComplete
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\ref\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\obj\Debug\net5.0\Menu.genruntimeconfig.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Jokenpo.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Jokenpo.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Jokenpo.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Jokenpo.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Jokenpo.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\DesafioTDD - Copia\Atividades\Menu\bin\Debug\net5.0\Jokenpo.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\01.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\01.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\01.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\01.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\02.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\02.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\02.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\02.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\03.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\03.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\03.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\03.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\07.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\07.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\07.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\07.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Jokenpo.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Jokenpo.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Jokenpo.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Jokenpo.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Menu.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Menu.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Menu.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Menu.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\ref\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Menu.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\01.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\02.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\03.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\07.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Jokenpo.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\01.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\02.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\03.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\07.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\Jokenpo.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.AssemblyReference.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.AssemblyInfoInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.AssemblyInfo.cs
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.csproj.CopyComplete
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\ref\Menu.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.pdb
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\obj\Debug\net5.0\Menu.genruntimeconfig.cache
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\FizzBuzz.runtimeconfig.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\FizzBuzz.runtimeconfig.dev.json
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\FizzBuzz.exe
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\FizzBuzz.dll
+C:\Users\ardl\OneDrive - GFT Technologies SE\Desktop\Desafio TDD\Atividades\Menu\bin\Debug\net5.0\FizzBuzz.pdb

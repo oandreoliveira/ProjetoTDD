@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\Menu.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj",
+        "projectName": "01",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj",
+        "projectName": "02",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj",
+        "projectName": "03",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj",
+        "projectName": "07",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj",
+        "projectName": "FizzBuzz",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj",
+        "projectName": "Jokenpo",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\Menu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\Menu.csproj",
+        "projectName": "Menu",
+        "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\Menu.csproj",
+        "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj": {
+                "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj"
+              },
+              "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj": {
+                "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj"
+              },
+              "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj": {
+                "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj"
+              },
+              "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj": {
+                "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj"
+              },
+              "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj": {
+                "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj"
+              },
+              "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj": {
+                "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

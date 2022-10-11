@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\01\01.csproj" />
+    <ProjectReference Include="..\02\02.csproj" />
+    <ProjectReference Include="..\03\03.csproj" />
+    <ProjectReference Include="..\07\07.csproj" />
+    <ProjectReference Include="..\Jokenpo\Jokenpo.csproj" />
+    <ProjectReference Include="..\FizzBuzz\FizzBuzz.csproj" />
+  </ItemGroup>
+
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

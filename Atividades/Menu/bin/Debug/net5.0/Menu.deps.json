@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Menu/1.0.0": {
+        "dependencies": {
+          "01": "1.0.0",
+          "02": "1.0.0",
+          "03": "1.0.0",
+          "07": "1.0.0",
+          "FizzBuzz": "1.0.0",
+          "Jokenpo": "1.0.0"
+        },
+        "runtime": {
+          "Menu.dll": {}
+        }
+      },
+      "01/1.0.0": {
+        "runtime": {
+          "01.dll": {}
+        }
+      },
+      "02/1.0.0": {
+        "runtime": {
+          "02.dll": {}
+        }
+      },
+      "03/1.0.0": {
+        "runtime": {
+          "03.dll": {}
+        }
+      },
+      "07/1.0.0": {
+        "runtime": {
+          "07.dll": {}
+        }
+      },
+      "FizzBuzz/1.0.0": {
+        "runtime": {
+          "FizzBuzz.dll": {}
+        }
+      },
+      "Jokenpo/1.0.0": {
+        "runtime": {
+          "Jokenpo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jokenpo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

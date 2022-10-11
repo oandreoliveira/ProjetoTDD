@@ -1,0 +1,183 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01.dll": {}
+        }
+      },
+      "02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02.dll": {}
+        }
+      },
+      "03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/03.dll": {}
+        }
+      },
+      "07/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/07.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/07.dll": {}
+        }
+      },
+      "FizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.dll": {}
+        }
+      },
+      "Jokenpo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Jokenpo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jokenpo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01/1.0.0": {
+      "type": "project",
+      "path": "../01/01.csproj",
+      "msbuildProject": "../01/01.csproj"
+    },
+    "02/1.0.0": {
+      "type": "project",
+      "path": "../02/02.csproj",
+      "msbuildProject": "../02/02.csproj"
+    },
+    "03/1.0.0": {
+      "type": "project",
+      "path": "../03/03.csproj",
+      "msbuildProject": "../03/03.csproj"
+    },
+    "07/1.0.0": {
+      "type": "project",
+      "path": "../07/07.csproj",
+      "msbuildProject": "../07/07.csproj"
+    },
+    "FizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzz/FizzBuzz.csproj",
+      "msbuildProject": "../FizzBuzz/FizzBuzz.csproj"
+    },
+    "Jokenpo/1.0.0": {
+      "type": "project",
+      "path": "../Jokenpo/Jokenpo.csproj",
+      "msbuildProject": "../Jokenpo/Jokenpo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "01 >= 1.0.0",
+      "02 >= 1.0.0",
+      "03 >= 1.0.0",
+      "07 >= 1.0.0",
+      "FizzBuzz >= 1.0.0",
+      "Jokenpo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ardl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\Menu.csproj",
+      "projectName": "Menu",
+      "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\Menu.csproj",
+      "packagesPath": "C:\\Users\\ardl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Menu\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ardl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj": {
+              "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\01\\01.csproj"
+            },
+            "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj": {
+              "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\02\\02.csproj"
+            },
+            "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj": {
+              "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\03\\03.csproj"
+            },
+            "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj": {
+              "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\07\\07.csproj"
+            },
+            "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\FizzBuzz\\FizzBuzz.csproj"
+            },
+            "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj": {
+              "projectPath": "C:\\Users\\ardl\\OneDrive - GFT Technologies SE\\Desktop\\Desafio TDD\\Atividades\\Jokenpo\\Jokenpo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
